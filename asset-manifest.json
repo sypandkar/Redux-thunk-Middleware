@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sypandkar/Redux-thunk-Middleware/static/css/main.073c9b0a.css",
+    "main.js": "/sypandkar/Redux-thunk-Middleware/static/js/main.dab9f94c.js",
+    "index.html": "/sypandkar/Redux-thunk-Middleware/index.html",
+    "main.073c9b0a.css.map": "/sypandkar/Redux-thunk-Middleware/static/css/main.073c9b0a.css.map",
+    "main.dab9f94c.js.map": "/sypandkar/Redux-thunk-Middleware/static/js/main.dab9f94c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dab9f94c.js"
+  ]
+}
